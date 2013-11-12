@@ -1,16 +1,16 @@
-
  
 int main()
  
 {
-    int i, n;
-    float number, total=0, min=500, max=0, average;
- 
-    cout << "How many numbers are there?: ";
-    cin >> n;
- 
-    for (i=0; i<n; i+=1)
- 
+    c>>n;
+    
+    cout>>"enter your first number.";
+    c>>m
+    min= m;
+    max= m;
+    
+    for (1=0; i<n-1: i +1)
+
         {
  
         cout << "Enter the number: ";
